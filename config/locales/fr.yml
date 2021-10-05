@@ -106,8 +106,8 @@ fr:
     dashboard: "Tableau de bord"
     code_of_conduct: "Code de Conduite"
     breach_code_of_conduct: "Breach Code of Conduct"
-    coach_guide: "Guide enseignant"
-    student_guide: "Guide étudiant"
+    coach_guide: "Guide enseignant·e"
+    student_guide: "Guide étudiant·e"
     tutorials: "Tutoriels"
     becoming_sponsor: "Devenir un sponsor"
     faq: "FAQ"
@@ -119,7 +119,7 @@ fr:
     tweets_by: "Tweets par"
     latest_sponsors: "Les derniers Sponsors"
     policy:
-      intro: "Il y a une forte demande pour nos ateliers et il y a une liste d'attente pratiquement toutes les semaines. Pour être certain·e qu'un maximum de personnes puissent venir, nous avons une politique d'assiduité stricte."
+      intro: "Il y a une forte demande pour nos ateliers et il y a une liste d'attente pratiquement toutes les semaines. Pour être certain·e·s qu'un maximum de personnes puissent venir, nous avons une politique d'assiduité stricte."
       rule1: "Avant de vous enregistrer merci de vous assurer que vous êtes éligible. Si vous n'êtes pas sûr·e n'hésitez pas à nous contacter."
       rule2: "Vous devez vous enregistrer pour venir à nos ateliers."
       rule3: "Si vous vous êtes enregister et que vous réaliser que vous ne pouvez plus venir, vous devez laisser votre place à quelqu'un d'autre. Cela ne prend que quelques secondes à faire depuis l'email de confirmation."
@@ -134,18 +134,18 @@ fr:
       reminder: "Donc, merci de vous rappeler pourquoi nous faisons ces ateliers – pour ouvrir la tech à ceux qui sont sous représentés dans le secteur."
     teacher_guide:
       laptop: "Vous n'avez pas besoin de portable à nos ateliers. Vous êtes là a observer et guider les étudiant·e·s. Si vous n'êtes pas confortable avec le tutoriel, vous devez vous familiarisez avant d'arriver si vous voulez aider."
-      keyboard: "Ne prendrez pas le contrôle du clavier ! Ça peut être perturbant et effrayant."
-      typing: "Encouragez les étudiant·e·s à taper et ne copier coller pas."
+      keyboard: "Ne prendre pas le contrôle du clavier ! Ça peut être perturbant et effrayant."
+      typing: "Encourager les étudiant·e·s à taper et ne pas copier coller."
       questions: "Expliquez qu'il n'y a pas de mauvaises questions."
-      mistakes: "Expliquez aux étudian·e·s que ça va de faire les erreurs."
-      introduction: "Toujours s'introduisez. Disez pourquoi vous voulez aider et prendre vos temps libres pour ça, pourquoi vous aimez le codage."
-      backgrounds: "Give your students the opportunity to get to know each other. Ask their names, why they are here, what they do in their day jobs. Encourage a brief discussion before starting."
-      limits: "Assume that anyone you're teaching has no knowledge but infinite intelligence."
-      collaboration: "Work collaboratively with your student. If you have two students, you should work with both. Don't focus all your attention on one of them."
-      discussion: "Let students have a go at answering the questions first. Help with open and leading questions. Encourage a discussion."
-      talk_slow: "Take it slow, you are the teacher, they are the student. Allow for time between questions."
-      mild_approach: "Don't say no when the students are not doing something right. Be gentle, approach it in a mild way."
-      paper: "Use pen and paper or go to a whiteboard! Often students are coming from a non-technical background. Drawing and explaining with visual material is really helpful."
+      mistakes: "Expliquer aux étudiant·e·s que ça va de faire les erreurs."
+      introduction: "Toujours s'introduire. Dire pourquoi vous voulez aider et prendre vos temps libres pour ça, pourquoi vous aimez le codage."
+      backgrounds: "Donner vos étudiant·e·s l'opportunité a faire connaissance l'un et l'autre. Demander leur prénoms, pourquoi il·elle·s sont là, quoi il·elle·s font comme travail. Encourager une discussion courte avant de commencer."
+      limits: "Supposer que l'étudiant·e ne connait rien, mais a d'intelligence infini."
+      collaboration: "Travailler en collaboration avec ton étudiant·e. Si tu as deux étudiant·e·s, vous devez travailler avec les deux. Ne pas donner tout votre attention à l'un ou l'autre."
+      discussion: "Donner les étudiant·e·s l'opportunité a essayer a répondre aux questions en premier. Aider avec des questions ouvertes et orientées. Encourager une discussion."
+      talk_slow: "Prendre vos temps, vous êtes l'enseignant·e, il·elle est l'étudiant·e. Prévoir du temps entre des questions."
+      mild_approach: "Ne pas dire non quand les étudiant·e·s ne font pas la bonne chose. Être gentil·le, approcher-le avec une manière douce."
+      paper: "Utiliser un crayon et papier ou un tableau blanc ! Souvent, étudiant·e·s n'ont pas une education technique. C'est très utile à dessiner et expliquer avec des materiaux visuels."
       stubling: "Let them stumble. We learn by making mistakes, getting frustrated, and working through problem in our own way. Be supportive, but let them explore."
       suggestions: "Do you have something to suggest? Make a <a href='https://github.com/codebar/planner'>pull request</a> or <a href='https://github.com/codebar/planner/issues/new'>create an issue</a>"
   workshops:
@@ -159,15 +159,15 @@ fr:
     view_past_events: "Voir les èvèment passé"
     view_all: "Voir tout"
     hosted_by: "Hébergé par"
-    organisers: "Organisateurs"
+    organisers: "Organisateur·ice·s"
     venue_at: "à"
-    attend_as_student: "S'inscrire étudiant"
-    attend_as_coach: "Inscription enseignant"
-    location: "Emplacemnet"
+    attend_as_student: "S'inscrire étudiant·e"
+    attend_as_coach: "Inscription enseignant·e"
+    location: "Emplacement"
     sponsors: "Sponsors"
     thx_to_sponsors: "Un grand merci à tous nos sponsors qui ont fait de cet évènement une réalité!"
-    coaches: "Enseignants"
-    students: Students
+    coaches: "Enseignant·e·s"
+    students: "Etudiant·e·s"
     schedule: "Programme"
     send_us_an_email: "envoyez nous un email"
     not_open_for_rsvp: Il n'est pas encore possible de s'inscrire pour cet évènement.
@@ -189,10 +189,10 @@ fr:
         a: "Nous offrons des bourses de voyage. Vous devez vous assurer de remplir le questionnaire après vous être enregistrer et nous vous contacterons."
   coaches:
     want_to_coach: "Voulez vous enseigner à nos ateliers?"
-    read_before: "Si vous n'êtes jamais venu a nos ateliers, merci de lire notre"
+    read_before: "Si vous n'êtes jamais venu·e a nos ateliers, merci de lire notre"
     code_of_conduct: "code de conduite"
-    policy: "vu que nous attendons que chacun se comporte correctement. Vous devriez aussi lire notre"
-    guide: "guide pour les enseignants"
+    policy: "vu que nous attendons que chacun·e se comporte correctement. Vous devriez aussi lire notre"
+    guide: "guide pour les enseignant·e·s"
     unable_attend: "Si vous n'êtes plus disponibles après vous être inscris, merci de revenir et mettre à jour vos informations vu que nous avons besoin des enseignants pour que nos ateliers fonctionnent."
     food: "PS: Il y aura de la nourriture à nos ateliers. Nous faisons toujours un effort pour avoir des choix végétariens, vegan and sans gluten. Si vous avez des allergies alimentaires envoyez nous un email à"
   code_of_conduct:
@@ -206,7 +206,7 @@ fr:
       comply: "Nous nous attendons à ce que tous les participants cessent immédiatement tout comportement de harcèlement en cas de signalement."
       sponsors: "Les sponsors sont également soumis à la politique anti-harcèlement. En particulier, les sponsors ne doivent pas utiliser d'images, d'activités ou d'autres contenus à caractère sexuel. Le personnel (y compris les bénévoles) ne doivent pas porter de vêtements / uniformes / costumes sexualisés, ni créer un environnement sexualisé."
       sanctions: "Si un participant se livre à un comportement de harcèlement, les organisateurs peuvent prendre toutes les mesures qu'ils jugent appropriées. Cela comprend l'avertissement du contrevenant, ou son expulsion."
-      concerns: "Si vous êtes harcelé·e, remarquez que quelqu'un d'autre est harcelé, ou avez d'autres préoccupations, veuillez contacter immédiatement l'un des organisateurs."
+      concerns: "Si vous êtes harcelé·e, remarquez que quelqu'un d'autre est harcelé, ou avez d'autres préoccupations, veuillez contacter immédiatement l'un·e des organisateur·ice·s."
       applies_to: "Nous attendons des participants qu'ils suivent ces règles lors de tous les événements <b>codebar</b>."
       questions: "Si vous avez des questions ou des préoccupations concernant ce code de conduite,"
       contact: "contactez-nous"
@@ -216,25 +216,25 @@ fr:
   members:
     sign_up: "S'inscrire"
     sign_in_with_github: "Se connecter via GitHub"
-    sign_up_as_student: "Je comprends et j'accept les critères d'éligibilité. Je souhaite m'inscrire en tant qu'étudiant"
-    sign_up_as_coach: "S'inscrire en tant qu'enseignant"
+    sign_up_as_student: "Je comprends et j'accept les critères d'éligibilité. Je souhaite m'inscrire en tant qu'étudiant·e"
+    sign_up_as_coach: "S'inscrire en tant qu'enseignant·e"
     code_of_conduct: "code de conduite"
     new:
       intro: "We offer a welcoming, inclusive and learning-friendly environment, and have a zero tolerance policy towards any form of harassment or inappropriate behavior. Before you sign up, read our"
       students:
-        intro: "Si vous souhaiter vous inscrire en tant qu'étudiant, assurez vous que vous"
+        intro: "Si vous souhaiter vous inscrire en tant qu'étudiant·e, assurez vous que vous"
         criteria_link: "soyez éligible"
         criteria_brief: "puisque nos ateliers ne sont ouvert qu'aux femmes, LGBTQ, et personnes issus de minorités."
         github: "Enfin, quand vous cliquez sur le boutton pour s'inscrire, vous allez être rediriger vers GitHub. Après vous être connecter avec votre compte GitHub, vous serez redirigé vers le site de codebar. Si vous n'avez pas de compte, vous devrez en créer un. Cela ne prend que quelques minutes et cela vous sera utile quand vous commencerez à coder!"
       invitations: "Les invitations sont envoyer régulierement, ne vous inquiétez pas si vous n'en recevez pas une quand vous venez de vous inscrire."
   footer:
     email_us: "Envoyez nous un email à"
-    contact_info: "Contact:"
+    contact_info: "Contact :"
   faq:
     payment:
       q: "Dois-je payer pour venir à codebar?"
       a_p1: "Pas du tout! Nous avons la chance que de formidables entreprises accueillent nos ateliers et proposent un repas. Et nos"
-      awesome_coaches: "superbe enseignants"
+      awesome_coaches: "superbe enseignant·e·s"
       a_p2: "donne de leur temps pour aider la communauté."
     technologies:
       q: "Quelles technologies enseignez vous?"
@@ -271,11 +271,11 @@ fr:
       q: "Je voudrais commencer codebar dans ma ville. Est ce que cela est possible?"
       a: "Bien sur. codebar a pour but de créer une communauté de développeurs qui veulent aider les autres. Si vous êtes exciter a l'idée de lancer codebar ou vous habitez, nous adererions parler avec vous afin de voir comment nous pourrions nous organiser, alors <a href=\"mailto:contact@codebar.io\">envoyez nous un email</a>."
     our_coaches:
-      q: "Nos enseignants"
+      q: "Nos enseignant·e·s"
       a_p1: "Vous pouvez voir tous les enseignants qui ont aider dans nos ateliers sur"
       a_p2: ". Ils ont commandé suivant le nombre de participants. C'est notre manière de leur montrer notre gratitude, vu que sans eux, nous ne pourrions exister."
   participant_student_guide:
-    title: "Student Guide"
+    title: "Guide étudiant·e"
     attendance_policy:
       title: "Attendance Policy"
       intro: "codebar is, and always has been, open to all levels of coding experience. While most of the tutorials on our website are aimed at newcomers to web development, we intend to continue our open-door policy for any student who needs coach support on their own projects. Due to the fact that our workshops are frequently oversubscribed, we ask students to respect the following expectations for participation in our workshops"
@@ -304,15 +304,15 @@ fr:
     contact: "Pour contacter l'équipe de %{city}, envoyez un email à %{email}"
   job:
     status:
-      draft: Draft
-      pending: Pending approval
-      published: Published
-      expired: Expired
+      draft: En brouillon
+      pending: "En attente d'approbation"
+      published: Publié
+      expired: Expiré
     admin:
       status:
-        pending: Pending approval
-        published: Approved
-        expired: Approved
+        pending: "En attente d'approbation"
+        published: Validé
+        expired: Expiré
     expired: 'This job post has expired.'
     check_out_jobs_html: 'Check out the rest of our %{link}.'
     published_on: 'Published on'
