@@ -49,49 +49,49 @@ fr:
     intro: "<strong>codebar</strong> is a charity that facilitates the growth of a diverse tech community by running free regular programming workshops for minority groups in tech."
     explanation: "Our goal is to enable minority group members to learn programming in a safe and collaborative environment and expand their career opportunities. To achieve this we run free regular workshops, regular one-off events and try to create opportunities for our students making technology and coding more accessible."
     participate:
-      students_title: "Students"
+      students_title: "Étudiant·e·s"
       students_explanation_p1: "Our students come from a variety of backgrounds. Some want to become full-time developers, whereas some would like to learn the basics of coding in a supportive environment."
-      students_explanation_p2: "Sign up to join our vibrant community and attend our workshops."
-      students_button: "Sign up as a student"
-      coaches_title: "Coaches"
+      students_explanation_p2: "S'inscrire pour réjoindre notre communauté vivant et participer à nos atéliers."
+      students_button: "S'inscrire en tant qu'étudiant·e"
+      coaches_title: "Enseignant·e·s"
       coaches_explanation_p1: "We encourage new students to work on our HTML/CSS, JavaScript, Ruby, Python or Git <a href='http://tutorials.codebar.io'>tutorials</a>. We also help them understand programming concepts."
-      coaches_explanation_p2: "Therefore we are always on the lookout for more developers to join our community and help coach at our workshops."
-      coaches_button: "Sign up as a coach"
-      workshop_title: "Workshops"
+      coaches_explanation_p2: "Donc on recherche toujours plus de développeur·euse·s à rejoindre notre communauté et enseigner à nos atéliers."
+      coaches_button: "S'inscrire en tant que enseignant·e"
+      workshop_title: "Atéliers"
       workshop_explanation_p1: "We are hosted by some amazing companies who support our cause. Our normal format is 30 minutes of socialising with food and drink, followed by a lightning talk then coding."
       workshop_explanation_p2: Help our expansion and enable us to provide help and support to our chapters by hosting and sponsoring our workshops.
-      workshop_button: "Host a workshop"
+      workshop_button: "Acceuillir un atélier"
       workshop_email_subject: "Regarding hosting a workshop"
     chapters:
-      title: "Chapters"
+      title: "Chapitres"
     events:
-      upcoming: "Upcoming Events"
+      upcoming: "Prochains Événements"
   mailer:
     workshop_invitation:
       attending:
-        subject: "Attendance Confirmation for %{date_time}"
+        subject: "Confirmation de Présence pour %{date_time}"
       attending_reminder:
-        subject: "Workshop Reminder %{date_time}"
+        subject: "Rappel Atelier %{date_time}"
       invite_coach:
-        subject: "Workshop Coach Invitation %{date_time}"
+        subject: "Invitation Enseignant·e à Atelier %{date_time}"
       invite_student:
-        subject: "Workshop Invitation %{date_time}"
+        subject: "Invitation à Atelier %{date_time}"
       notify_waiting_list:
-        subject: "A spot just became available"
+        subject: "Une place viens d'être disponible"
       waiting_list_reminder:
         subject: "Reminder: you're on the codebar waiting list (%{date_time})"
   messages:
     accepted_invitation: "Merci d'avoir confimer %{name}. À bientot à l'atelier!"
-    already_invited: 'You have already RSVPd or joined the waitlist for this workshop.'
+    already_invited: "Vous avez déjà répondu ou rejoint la list d'attente à cet atelier."
     error_blank_note: 'You must select a note'
-    rejected_invitation: "Désolé que vous ne puissiez pas venir, mais merci %{name} de nous avoir tenu au courant."
+    rejected_invitation: "Désolé·e que vous ne puissiez pas venir, mais merci %{name} de nous avoir tenu au courant."
     already_rsvped: "Vous avez déjà réserver votre place!"
     not_attending_already: "Vous avez déjà confimer que vous ne pouvez pas venir!"
     no_available_seats: "Il n'y a malheuresement plus de places disponible :(. Si vous souhaitez joindre la liste d'attente merci de nous envoyer un email à %{email}"
     feedback_saved: "Merci d'avoir pris le temps de nous laisser un commentaire!"
     feedback_not_found: "Vous avez déjà laisser un commentaire à propos de cet évènement."
     updated_note: "Votre commentaire à bien été mis à jour."
-    invalid_session: 'Your session is invalid'
+    invalid_session: "Votre session est invalide"
     invitations:
       meeting:
         cancel: "Thanks for letting us know you can't make it."
@@ -100,10 +100,10 @@ fr:
       spot_confirmed: "Your spot has been confirmed for %{event}! We look forward to seeing you there."
       spot_not_confirmed: 'Your spot has not yet been confirmed. We will verify your attendance after you complete the questionnaire.'
   notifications:
-    provider_already_connected: 'Vous êtes déjà connecter!'
-    not_logged_in: "Vous devez être connecter pour accéder à cette page."
+    provider_already_connected: 'Vous êtes déjà connecté·e!'
+    not_logged_in: "Vous devez être connecté·e pour accéder à cette page."
   navigation:
-    dashboard: "Dashboard"
+    dashboard: "Tableau de bord"
     code_of_conduct: "Code de Conduite"
     breach_code_of_conduct: "Breach Code of Conduct"
     coach_guide: "Guide enseignant"
@@ -119,26 +119,26 @@ fr:
     tweets_by: "Tweets par"
     latest_sponsors: "Les derniers Sponsors"
     policy:
-      intro: "Il y a une forte demande pour nos ateliers et il y a une liste d'attente pratiquement toutes les semaines. Pour être certain qu'un maximum de personnes puissent venir, nous avons une politique d'assiduité stricte."
-      rule1: "Avant de vous enregistrer merci de vous assurer que vous êtes éligible. Si vous n'êtes pas sure n'hésitez pas à nous contacter."
+      intro: "Il y a une forte demande pour nos ateliers et il y a une liste d'attente pratiquement toutes les semaines. Pour être certain·e qu'un maximum de personnes puissent venir, nous avons une politique d'assiduité stricte."
+      rule1: "Avant de vous enregistrer merci de vous assurer que vous êtes éligible. Si vous n'êtes pas sûr·e n'hésitez pas à nous contacter."
       rule2: "Vous devez vous enregistrer pour venir à nos ateliers."
       rule3: "Si vous vous êtes enregister et que vous réaliser que vous ne pouvez plus venir, vous devez laisser votre place à quelqu'un d'autre. Cela ne prend que quelques secondes à faire depuis l'email de confirmation."
       rule4: "Essayez d'annuler si possible avec un délai de 24 heures."
       rule5: "Il est possible que certaines choses arrivent à la dernière minute, si cela arrive même une heure avant l'atelier, envoyez nous un petit message."
       what_happens: "Que se passe t-il si je ne respecte pas les conditions?"
       strikes_system: "Nous avons un système avec trois avertissements. Cela veux dire que si vous n'êtes pas présent trois fois, nous vous retirerons de notre listes de participants pour un mois. Nous vous enverrons un message après votre première absence pour s'assurer que vous ayez connaissance de cette règle."
-      removing: "Si vous êtes absent trois fois de plus, nous devrons vous retirer de facon permanente de nos invitations."
+      removing: "Si vous êtes absent·e trois fois de plus, nous devrons vous retirer de facon permanente de nos invitations."
       rsvping: "Il n'y a pas de sanctions pour s'enregisrer et annuler par la suite, mais essayer d'éviter dans la mesure du possible. Si il vous est difficile de vous rendre disponible un certain jour, dites le nous, ce genre de retour nous est important pour nous."
-      eligibility_note: "Un autre commentaire sur nos critères d'èligibilité"
+      eligibility_note: "Un autre commentaire sur nos critères d'éligibilité"
       abuse: "Nous sommes plutot souple et nous vous faisons confiance, nous ne vous demanderons rien à propos de votre éligibilité. Mais si nous semble que vous abusez le système nous devrons peut-être changer les régles (ce que nous ne voulons vraiment pas faire)."
       reminder: "Donc, merci de vous rappeler pourquoi nous faisons ces ateliers – pour ouvrir la tech à ceux qui sont sous représentés dans le secteur."
     teacher_guide:
-      laptop: "You don't need a laptop for our workshops. You are there to watch and guide the students. If you don't feel comfortable with the tutorial you should spend time on it before coming if you want to help out."
-      keyboard: "Do not take over the keyboard! This can be off-putting and scary."
-      typing: "Encourage the students to type and not copy paste."
-      questions: "Explain that there are no bad questions."
-      mistakes: "Explain to students that it's OK to make mistakes."
-      introduction: "Always introduce yourself. Say why you want to help out and are spending your own time on this, why you like programming."
+      laptop: "Vous n'avez pas besoin de portable à nos ateliers. Vous êtes là a observer et guider les étudiant·e·s. Si vous n'êtes pas confortable avec le tutoriel, vous devez vous familiarisez avant d'arriver si vous voulez aider."
+      keyboard: "Ne prendrez pas le contrôle du clavier ! Ça peut être perturbant et effrayant."
+      typing: "Encouragez les étudiant·e·s à taper et ne copier coller pas."
+      questions: "Expliquez qu'il n'y a pas de mauvaises questions."
+      mistakes: "Expliquez aux étudian·e·s que ça va de faire les erreurs."
+      introduction: "Toujours s'introduisez. Disez pourquoi vous voulez aider et prendre vos temps libres pour ça, pourquoi vous aimez le codage."
       backgrounds: "Give your students the opportunity to get to know each other. Ask their names, why they are here, what they do in their day jobs. Encourage a brief discussion before starting."
       limits: "Assume that anyone you're teaching has no knowledge but infinite intelligence."
       collaboration: "Work collaboratively with your student. If you have two students, you should work with both. Don't focus all your attention on one of them."
